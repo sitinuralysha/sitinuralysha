@@ -4,7 +4,7 @@ Hye! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 A Computer Science Student
 --------------------------
 
-I am currently living my life as a degree student in Computer Science at Universiti Teknologi Malaysia.
+I am currently living my degree life as a Computer Science student in Graphics and Multimedia Software at Universiti Teknologi Malaysia.
 
 
 * 🌍  I'm based in Johor Bahru
