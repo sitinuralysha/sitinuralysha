@@ -4,7 +4,7 @@ Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 A Computer Science Student
 --------------------------
 
-Just casually living and working on my computer science degree life.
+I am currently living my life as a degree student in Computer Science at Universiti Teknologi Malaysia. Passionate about building, solving problems, and pushing the boundaries of the digital world. Continuously improving and sharpening my skills.
 
 * 🌍  I'm based in Johor Bahru
 * ✉️  You can contact me at [sitinuralysha@graduate.utm.my](mailto:sitinuralysha@graduate.utm.my)
