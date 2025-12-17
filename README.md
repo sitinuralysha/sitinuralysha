@@ -5,7 +5,6 @@ A Computer Science Student
 --------------------------
 
 I am currently living my life as a degree student in Computer Science at Universiti Teknologi Malaysia.
---------------------------------------------------------------------------------------------------------
 
 
 * 🌍  I'm based in Johor Bahru
