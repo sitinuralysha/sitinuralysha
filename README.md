@@ -8,6 +8,8 @@ I am currently living my life as a degree student in Computer Science at Univers
 Passionate about building, solving problems, and pushing the boundaries of the digital world.
 Continuously improving and sharpening my skills.
 
+----------------------------------------------------------------------------------------------------------
+
 * 🌍  I'm based in Johor Bahru
 * ✉️  You can contact me at [sitinuralysha@graduate.utm.my](mailto:sitinuralysha@graduate.utm.my)
 * 🧠  I'm currently learning Science Computer
