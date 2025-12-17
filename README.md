@@ -1,5 +1,6 @@
 Hye! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Siti Nur Alysha.
-------------------------------------------------------------------------------------------------------------------------------------
+====================================================================================================================================
+
 
 A Computer Science Student
 --------------------------
@@ -12,9 +13,13 @@ I am currently living my degree life as a Computer Science student in Graphics a
 * 🧠  I'm currently learning Science Computer
 * 👥  I'm looking to collaborate on my TaskSync project
 
-<hr>
 
-<p>My Current Courses:</p>
+--------------------------------------------------------------------------------------------------------------------------------------
+My Current Courses
+-------------------
+
+
+
 <ul>
   <li><strong>SECP1513-07</strong>: Technology and Information Systems</li>
   <li><strong>ULRS1032-02</strong>: Integrity and Anti-Corruption Course</li>
@@ -23,16 +28,24 @@ I am currently living my degree life as a Computer Science student in Graphics a
   <li><strong>SECJ1013-08</strong>: Programming Techniques I</li>
 </ul>
 
+-----
+Skills
+------
+
 
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
 </p>
 
+---
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/sitinuralysha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 ### Badges
+
+---
 
 <b>My GitHub Stats</b>
 
