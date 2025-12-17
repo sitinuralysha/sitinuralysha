@@ -12,7 +12,7 @@ I am currently living my degree life as a Computer Science student in Graphics a
 * 🧠  I'm currently learning Science Computer
 * 👥  I'm looking to collaborate on my TaskSync project
 
----
+
 
 <p>My Current Courses:</p>
 <ul>
@@ -22,6 +22,7 @@ I am currently living my degree life as a Computer Science student in Graphics a
   <li><strong>SECR1013-07</strong>: Digital Logic</li>
   <li><strong>SECJ1013-08</strong>: Programming Techniques I</li>
 </ul>
+
 
 
 <p align="left">
