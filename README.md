@@ -6,7 +6,7 @@ A Computer Science Student
 
 Just casually living and working on my computer science degree life.
 
-* 🌍  I'm based in Johor
+* 🌍  I'm based in Johor Bahru
 * ✉️  You can contact me at [sitinuralysha@graduate.utm.my](mailto:sitinuralysha@graduate.utm.my)
 * 🧠  I'm currently learning Science Computer
 * 👥  I'm looking to collaborate on Projects
