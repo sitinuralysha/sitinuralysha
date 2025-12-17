@@ -12,6 +12,15 @@ I am currently living my degree life as a Computer Science student in Graphics a
 * 🧠  I'm currently learning Science Computer
 * 👥  I'm looking to collaborate on my TaskSync project
 
+--------------------------------------------------------------------------------------------------------
+**My Current Courses**
+⋆ SECP1513-07: Technology and Information Systems
+⋆ ULRS1032-02: Integrity and Anti-Corruption Course
+⋆ SECI1013-08: Discrete Structures
+⋆ SECR1013-07: Digital Logic
+⋆ SECJ1013-08: Programming Techniques I
+--------------------------------------------------------------------------------------------------------
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
 </p>
