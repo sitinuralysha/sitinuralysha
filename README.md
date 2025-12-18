@@ -2,7 +2,7 @@ Hye! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 ====================================================================================================================================
 
 
-A Computer Science Student
+A First Year Computer Science Student
 --------------------------
 
 I am currently living my degree life as a Computer Science student in Graphics and Multimedia Software at Universiti Teknologi Malaysia.
