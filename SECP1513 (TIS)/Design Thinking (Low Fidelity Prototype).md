@@ -9,3 +9,9 @@ Explore my design thinking slides and discover some insightful and creative idea
 </ul>
 
 Thank you!><
+
+˚∧＿∧  　+        —̳͟͞͞💗<br>
+(  •‿• )つ  —̳͟͞͞ 💗         —̳͟͞͞💗 + <br>
+(つ　 <                —̳͟͞͞💗<br>
+｜　 _つ      +  —̳͟͞͞💗         —̳͟͞͞💗 ˚<br>
+`し´ <br>
