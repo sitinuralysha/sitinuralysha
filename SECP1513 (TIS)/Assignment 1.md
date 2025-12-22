@@ -7,5 +7,3 @@ Take a peek at my awesome **industrial visit** video!
 </ul>
 
 Huge thanks for watching, hope you enjoy the vlog!‪♡
-
-
