@@ -1,4 +1,4 @@
-Assignment 1 :	Industry Talk and Industry Visit
+Assignment 1 : Industry Visit
 ----------
 Check out the link to my **industrial visit** video!
 
