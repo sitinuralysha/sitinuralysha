@@ -8,6 +8,4 @@ Check out the link to my **industrial visit** video!
 
 Huge thanks for watching, hope you enjoy the vlog!‪♡
 
----
-Here is my **industrial talk** poster!
-Check it out!
+
