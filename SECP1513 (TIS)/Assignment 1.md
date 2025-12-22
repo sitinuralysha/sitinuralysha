@@ -1,6 +1,6 @@
 Assignment 1 : Industry Visit
 ----------
-Check out the link to my **industrial visit** video!
+Take a peek at my awesome **industrial visit** video!
 
 <ul>
    ⤷ ゛https://www.canva.com/design/DAG3QJwh9ug/9ijMPfgtkFpNU1koY3ICsQ/edit ˎˊ˗
