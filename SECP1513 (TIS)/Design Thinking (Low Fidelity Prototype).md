@@ -1,7 +1,11 @@
+Design Thinking (Low Fidelity Prototype)
+---
 Explore my design thinking slides and discover some insightful and creative ideas! 💡
 
 <ul>
-<ul>
- ⤷ ゛https://www.canva.com/design/DAG3QJwh9ug/9ijMPfgtkFpNU1koY3ICsQ/edit ˎˊ˗
+ Check out the link to my design thinking slides!
+<br> 
+ ⤷ ゛https://1drv.ms/p/c/2cfcc7e089acece0/IQB8YTTQPUg5Rpyv3xKDb1eTAe6RZUJL0GDPKwdze8FC-o4?e=5M8Fni ˎˊ˗
 </ul>
-</ul>
+
+Thank you!><
